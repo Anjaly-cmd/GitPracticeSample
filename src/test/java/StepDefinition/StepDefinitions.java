@@ -10,14 +10,13 @@ public class StepDefinitions {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		
-		System.out.println("Hello");
+		System.out.println("lorem ipsum");
 		System.out.println("Hi");
 		
-		System.out.println("Hello");
-		System.out.println("Hi");
+		System.out.println("lorem ipsum");
+		System.out.println("lorem ipsum");
 		
-		System.out.println("Hello");
-		System.out.println("Hi");
+	
 	}
 
 }
